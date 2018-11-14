@@ -1,5 +1,5 @@
 # saigon-beer-locations
-[![HitCount](http://hits.dwyl.io/thaodt/thaodt/saigon-beers.svg)](http://hits.dwyl.io/thaodt/thaodt/saigon-beers)
+[![HitCount](http://hits.dwyl.io/thaodt/saigon-beers.svg)](http://hits.dwyl.io/thaodt/saigon-beers)
 
 This repo will list top n beer halls/restaurants around a given address (here **University of Transport and Communications HCM**).
 
